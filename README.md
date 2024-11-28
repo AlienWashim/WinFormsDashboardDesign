@@ -1,2 +1,2 @@
-# WinFormsDashboardDesign
-A WinForms-based application for designing a customizable dashboard UI. It features dynamic button states and an interactive layout for an improved user experience.
+# WinForms Dashboard Design in C#, Visual Studio
+This is a Windows Forms application built to create sleek and responsive dashboard layouts. The app includes features such as dynamic button color changes, which reflect the active state of the selected menu item. It offers a user-friendly interface with customizable options for text and interaction, providing an intuitive experience. Designed with simplicity in mind, the dashboard is easy to extend and integrate with other functionalities. Perfect for building desktop applications with modern, clean interfaces.
